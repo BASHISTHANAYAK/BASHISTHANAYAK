@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm BASHISTHA NAYAK</h1>
 <h3 align="center">I’m a passionate full-stack web developer with expertise in front-end technologies like HTML, CSS, JavaScript, and React, as well as back-end technologies like Node.js and MongoDB. I’m always eager to learn and take on new challenges in the tech world.</h3>
+<br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
 
 
 - 🌱 I’m currently learning **TypeScript**
