@@ -7,6 +7,7 @@
 - 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [BASHISTHANAYAK](https://github.com/BASHISTHANAYAK/)
+-  Portfolio: [Bashistha Nayak Portfolio](https://bashisthanayak.github.io/Bashistha-Nayak-portfolio/)
 
 - 💬 Ask me about **MERN stack and related technologies**
 
