@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node js**
 
-- 👨‍💻 All of my projects are available at [BASHISTHANAYAK](BASHISTHANAYAK)
+- 👨‍💻 All of my projects are available at [BASHISTHANAYAK](https://github.com/BASHISTHANAYAK/)
 
 - 💬 Ask me about **MERN stack and related technologies**
 
