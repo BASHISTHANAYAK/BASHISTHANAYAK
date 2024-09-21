@@ -68,3 +68,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=BASHISTHANAYAK&show_icons=true&locale=en&theme=tokyonight" alt="BASHISTHANAYAK" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=BASHISTHANAYAK&theme=tokyonight" alt="BASHISTHANAYAK" /></p>
+
+
+
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+            
