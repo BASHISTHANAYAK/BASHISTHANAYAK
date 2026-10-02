@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BASHISTHA NAYAK</h1>
-<h3 align="center">I’m a passionate full-stack web developer with expertise in front-end technologies like HTML, CSS, JavaScript, and React, as well as back-end technologies like Node.js and MongoDB. I’m always eager to learn and take on new challenges in the tech world.</h3>
+<h3 align="center">A Software Engineer focused on scalable backend architectures and full-stack web development. I specialize in the Node.js/MongoDB ecosystem, engineering production-ready systems that handle complex data flows, webhook integrations, and automated payment logic. I am passionate about writing clean, maintainable code to solve high-impact technical challenges.</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
